@@ -28,9 +28,11 @@ This Power BI dashboard provides a deep analysis of the Superstore dataset, high
 
 
 **File Info**
-- 'superstore-analysis.pbix': Power BI dashboard file.
+- 'Superstore -- Data Visualization and Storytelling.pbix': Power BI dashboard file.
 - '*.jpg': Dashboard page screenshots.
 - 'SampleSuperstore.csv': Dataset used for the analysis. ( https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+- 'Data Visualization and Storytelling.pdf': Summary document highlighting insights, storytelling elements, and key conclusions from the dashboard.
+
 
 **Conclusion**
 > Discounting strategies and unprofitable segments need close attention to boost margins. Focus on top-performing categories and regions for growth.
